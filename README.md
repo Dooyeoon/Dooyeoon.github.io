@@ -1,6 +1,6 @@
 ### AI Researcher & Ph. D. Student
 
-I am currently pursuing an M.S. degree in Artificial Intelligence at Ajou University.
+I am currently pursuing an Ph. D. degree in Artificial Intelligence at Ajou University.
 My research focuses on building efficient and practical artificial intelligence systems for language understanding and embodied intelligence.
 
 ## 🎓 Education
