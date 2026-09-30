@@ -38,5 +38,5 @@ My research interests include:
 ## 📫 Contact
 
 * Email: `ndy10101@gmail.com`
-* Google Scholar: 
-* LinkedIn: 
+* ORCID: `https://orcid.org/0009-0001-7802-0488`
+* LinkedIn: `https://www.linkedin.com/in/ndy10101/`
